@@ -30,6 +30,7 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "5.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.0",
           "Swashbuckle.AspNetCore": "5.6.3",
+          "pastaCodigos.Application": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -327,6 +328,9 @@
             "assemblyVersion": "2.8.0.0",
             "fileVersion": "2.8.26.1919"
           }
+        },
+        "compile": {
+          "lib/netstandard2.0/Humanizer.dll": {}
         }
       },
       "Microsoft.CSharp/4.7.0": {},
@@ -677,6 +681,39 @@
       "System.ComponentModel.Annotations/5.0.0": {},
       "System.Diagnostics.DiagnosticSource/5.0.0": {},
       "System.Memory/4.5.3": {},
+      "pastaCodigos.Application/1.0.0": {
+        "dependencies": {
+          "pastaCodigos.Domain": "1.0.0",
+          "pastaCodigos.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "pastaCodigos.Application.dll": {}
+        },
+        "compile": {
+          "pastaCodigos.Application.dll": {}
+        }
+      },
+      "pastaCodigos.Domain/1.0.0": {
+        "runtime": {
+          "pastaCodigos.Domain.dll": {}
+        },
+        "compile": {
+          "pastaCodigos.Domain.dll": {}
+        }
+      },
+      "pastaCodigos.Persistence/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.0",
+          "Microsoft.EntityFrameworkCore.Tools": "5.0.0",
+          "pastaCodigos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "pastaCodigos.Persistence.dll": {}
+        },
+        "compile": {
+          "pastaCodigos.Persistence.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
         "compile": {
           "Microsoft.AspNetCore.Antiforgery.dll": {}
@@ -2634,6 +2671,21 @@
       "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
       "path": "system.memory/4.5.3",
       "hashPath": "system.memory.4.5.3.nupkg.sha512"
+    },
+    "pastaCodigos.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "pastaCodigos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "pastaCodigos.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
       "type": "referenceassembly",

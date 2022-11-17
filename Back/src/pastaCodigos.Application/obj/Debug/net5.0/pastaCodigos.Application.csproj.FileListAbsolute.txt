@@ -1,0 +1,17 @@
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\bin\Debug\net5.0\pastaCodigos.Application.deps.json
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\bin\Debug\net5.0\pastaCodigos.Application.dll
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\bin\Debug\net5.0\ref\pastaCodigos.Application.dll
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\bin\Debug\net5.0\pastaCodigos.Application.pdb
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\obj\Debug\net5.0\pastaCodigos.Application.csprojAssemblyReference.cache
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\obj\Debug\net5.0\pastaCodigos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\obj\Debug\net5.0\pastaCodigos.Application.AssemblyInfoInputs.cache
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\obj\Debug\net5.0\pastaCodigos.Application.AssemblyInfo.cs
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\obj\Debug\net5.0\pastaCodigos.Application.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\obj\Debug\net5.0\pastaCodigos.Application.dll
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\obj\Debug\net5.0\ref\pastaCodigos.Application.dll
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\obj\Debug\net5.0\pastaCodigos.Application.pdb
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\bin\Debug\net5.0\pastaCodigos.Domain.dll
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\bin\Debug\net5.0\pastaCodigos.Persistence.dll
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\bin\Debug\net5.0\pastaCodigos.Domain.pdb
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\bin\Debug\net5.0\pastaCodigos.Persistence.pdb
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Application\obj\Debug\net5.0\pastaCodigos.Application.csproj.CopyComplete

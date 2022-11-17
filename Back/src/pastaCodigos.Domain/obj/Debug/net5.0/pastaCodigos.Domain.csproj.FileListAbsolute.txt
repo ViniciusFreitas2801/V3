@@ -1,0 +1,12 @@
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Domain\bin\Debug\net5.0\pastaCodigos.Domain.deps.json
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Domain\bin\Debug\net5.0\pastaCodigos.Domain.dll
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Domain\bin\Debug\net5.0\ref\pastaCodigos.Domain.dll
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Domain\bin\Debug\net5.0\pastaCodigos.Domain.pdb
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Domain\obj\Debug\net5.0\pastaCodigos.Domain.csprojAssemblyReference.cache
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Domain\obj\Debug\net5.0\pastaCodigos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Domain\obj\Debug\net5.0\pastaCodigos.Domain.AssemblyInfoInputs.cache
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Domain\obj\Debug\net5.0\pastaCodigos.Domain.AssemblyInfo.cs
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Domain\obj\Debug\net5.0\pastaCodigos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Domain\obj\Debug\net5.0\pastaCodigos.Domain.dll
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Domain\obj\Debug\net5.0\ref\pastaCodigos.Domain.dll
+C:\Users\vinicius.moura\Desktop\25-10-v3\V3\Back\src\pastaCodigos.Domain\obj\Debug\net5.0\pastaCodigos.Domain.pdb

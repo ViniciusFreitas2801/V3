@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0oSPqEBK4+9KS3l72i407jAxgrK49K3OrwpA2sKgHKCFbXCA65JJPwjArk4bXcDBLLIzpGdcXIfbA7vSEDnwJg==",
+  "dgSpecHash": "cVAv8ZFoTeCTltDwteEVlrHoyvp7QlvJfogv8MtmSKXj6DlgUR1gZ8UI4yPRzIZiIObAYMR/UkEeV/28qJMq6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinicius.moura\\Desktop\\codeFullStackV3\\Back\\src\\pastaCodigos.API\\pastaCodigos.API.csproj",
+  "projectFilePath": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.API\\pastaCodigos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinicius.moura\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\vinicius.moura\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -27,7 +27,9 @@
     "C:\\Users\\vinicius.moura\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\vinicius.moura\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\vinicius.moura\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\vinicius.moura\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\vinicius.moura\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vinicius.moura\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\vinicius.moura\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\vinicius.moura\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\vinicius.moura\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
@@ -39,6 +41,7 @@
     "C:\\Users\\vinicius.moura\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\vinicius.moura\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\vinicius.moura\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\vinicius.moura\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
     "C:\\Users\\vinicius.moura\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []

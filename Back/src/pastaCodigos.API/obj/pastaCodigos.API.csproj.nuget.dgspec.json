@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinicius.moura\\Desktop\\codeFullStackV3\\Back\\src\\pastaCodigos.API\\pastaCodigos.API.csproj": {}
+    "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.API\\pastaCodigos.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinicius.moura\\Desktop\\codeFullStackV3\\Back\\src\\pastaCodigos.API\\pastaCodigos.API.csproj": {
+    "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.API\\pastaCodigos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinicius.moura\\Desktop\\codeFullStackV3\\Back\\src\\pastaCodigos.API\\pastaCodigos.API.csproj",
+        "projectUniqueName": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.API\\pastaCodigos.API.csproj",
         "projectName": "pastaCodigos.API",
-        "projectPath": "C:\\Users\\vinicius.moura\\Desktop\\codeFullStackV3\\Back\\src\\pastaCodigos.API\\pastaCodigos.API.csproj",
+        "projectPath": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.API\\pastaCodigos.API.csproj",
         "packagesPath": "C:\\Users\\vinicius.moura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinicius.moura\\Desktop\\codeFullStackV3\\Back\\src\\pastaCodigos.API\\obj\\",
+        "outputPath": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinicius.moura\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,7 +25,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Application\\pastaCodigos.Application.csproj": {
+                "projectPath": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Application\\pastaCodigos.Application.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -77,6 +81,187 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Application\\pastaCodigos.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Application\\pastaCodigos.Application.csproj",
+        "projectName": "pastaCodigos.Application",
+        "projectPath": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Application\\pastaCodigos.Application.csproj",
+        "packagesPath": "C:\\Users\\vinicius.moura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vinicius.moura\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Domain\\pastaCodigos.Domain.csproj": {
+                "projectPath": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Domain\\pastaCodigos.Domain.csproj"
+              },
+              "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Persistence\\pastaCodigos.Persistence.csproj": {
+                "projectPath": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Persistence\\pastaCodigos.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Domain\\pastaCodigos.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Domain\\pastaCodigos.Domain.csproj",
+        "projectName": "pastaCodigos.Domain",
+        "projectPath": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Domain\\pastaCodigos.Domain.csproj",
+        "packagesPath": "C:\\Users\\vinicius.moura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vinicius.moura\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Persistence\\pastaCodigos.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Persistence\\pastaCodigos.Persistence.csproj",
+        "projectName": "pastaCodigos.Persistence",
+        "projectPath": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Persistence\\pastaCodigos.Persistence.csproj",
+        "packagesPath": "C:\\Users\\vinicius.moura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vinicius.moura\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Domain\\pastaCodigos.Domain.csproj": {
+                "projectPath": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Domain\\pastaCodigos.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
