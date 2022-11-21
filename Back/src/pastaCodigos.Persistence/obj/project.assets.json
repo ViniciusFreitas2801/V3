@@ -924,12 +924,14 @@
       "outputPath": "C:\\Users\\vinicius.moura\\Desktop\\25-10-v3\\V3\\Back\\src\\pastaCodigos.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vinicius.moura\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\vinicius.moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -14,6 +14,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using pastaCodigos.Persistence;
 using pastaCodigos.Persistence.Contextos;
+using pastaCodigos.Persistence.Contratos;
 
 namespace pastaCodigos.API
 {
@@ -33,6 +34,11 @@ namespace pastaCodigos.API
                 context => context.UseSqlite(Configuration.GetConnectionString("Default"))
             );
             services.AddControllers();
+
+            services.AddScoped<IEventoService, EventoService>();
+            services.AddScoped<IGeralPersist, GeralPersist>();
+            services.AddScoped<IEventoPersist, EventoPersist>();
+
             services.AddCors();
             services.AddSwaggerGen(c =>
             {
